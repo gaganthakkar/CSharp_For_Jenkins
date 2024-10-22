@@ -9,7 +9,7 @@ This documentation will provide information about onboarding and contributing in
 
  #### [ONBOARDING](https://github.com/gaganthakkar/CSharp_For_Jenkins/blob/main/Onboarding.md)
 
-  #### [GLOSSARY](https://github.com/gaganthakkar/CSharp_For_Jenkins/blob/main/Onboarding.md)
+  #### [GLOSSARY](https://github.com/gaganthakkar/CSharp_For_Jenkins/blob/main/GLOSSARY.md)
 
 
    #### [VIDEOS](https://github.com/gaganthakkar/CSharp_For_Jenkins/blob/main/Onboarding.md)
